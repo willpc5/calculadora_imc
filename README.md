@@ -9,3 +9,7 @@ Calculadora de IMC com as seguintes verificações
 - 30 a 34,9	Obesidade grau I
 - 35 a 39,9	Obesidade grau II
 - Maior que 40	Obesidade grau III
+
+Link do projeto abaixo: 
+
+https://willpc5.github.io/calculadora_imc/
